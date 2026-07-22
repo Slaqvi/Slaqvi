@@ -44,11 +44,6 @@
 
 </div>
 
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaqvi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
