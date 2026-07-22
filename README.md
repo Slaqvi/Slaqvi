@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+(RPL)+Student;Competitive+Programming+Enthusiast;Python+%7C+C%2B%2B+%7C+Web+Developer;National+Programming+Competition+Participant;Never+Stop+Learning+%F0%9F%9A%80"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -38,15 +38,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Slaqvi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Slaqvi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaqvi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Slaqvi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Slaqvi&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Slaqvi/Slaqvi/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -100,15 +100,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Slaqvi">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:muhammadrizqiakbar170@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
