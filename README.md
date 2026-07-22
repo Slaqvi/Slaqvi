@@ -2,9 +2,7 @@
 
 # Hi there I'm Muhammad Rizqi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+(RPL)+Student;Competitive+Programming+Enthusiast;Python+%7C+C%2B%2B+%7C+Web+Developer;Participated+in+the+National+Programming+Competition+Toprank+2026+-+Logic+Code+Live.+%F0%9F%92%BB;Never+Stop+Learning+%F0%9F%9A%80"/>
-
-<img src="https://komarev.com/ghpvc/?username=Slaqvi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+(RPL)+Student;Competitive+Programming+Enthusiast;Python+%7C+C%2B%2B+%7C+Web+Developer;Participated+in+National+Programming+Competition+Toprank+2026+-+Logic+Code.+%F0%9F%92%BB;Never+Stop+Learning+%F0%9F%9A%80"/>
 
 </div>
 
