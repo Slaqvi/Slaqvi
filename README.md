@@ -60,28 +60,6 @@
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Slaqvi&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Slaqvi/Slaqvi/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 ✅ Improve Data Structures & Algorithms
