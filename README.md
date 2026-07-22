@@ -1,11 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00C2FF;">Muhammad Rizqi</span>
-</h1>
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+(RPL)+Student;Competitive+Programming+Enthusiast;Python+%7C+C%2B%2B+%7C+Web+Developer;Toprank+2026+Logic+Code+Live+Participant+%F0%9F%92%BB;Never+Stop+Learning+%F0%9F%9A%80"/>
+# 👋 Hello, I'm Muhammad Rizqi
+
+### Software Engineering (RPL) Student • Competitive Programming Enthusiast • Web Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Developer;Competitive+Programming+Enthusiast;Toprank+2026+Logic+Code+Live+Participant;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
 </div>
 
