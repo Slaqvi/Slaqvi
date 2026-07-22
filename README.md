@@ -1,6 +1,9 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00C2FF;">Muhammad Rizqi</span>
+</h1>
 
-# Hi there I'm Muhammad Rizqi 👋
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+(RPL)+Student;Competitive+Programming+Enthusiast;Python+%7C+C%2B%2B+%7C+Web+Developer;Toprank+2026+Logic+Code+Live+Participant+%F0%9F%92%BB;Never+Stop+Learning+%F0%9F%9A%80"/>
 
